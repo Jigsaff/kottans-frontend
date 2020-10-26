@@ -1,0 +1,1 @@
+Git is so powerfull thing! I was very impressed gits features. Git is the most basic thing that we need at our work.
