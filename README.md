@@ -78,6 +78,6 @@
     <summary>Screenshots</summary>
 
 ![udacity_responsive_course](./task_responsive_web_design/udacity_responsive_course.png)
-![flexbox_froggy.png](./task_responsive_web_design/flexbox_froggy.png.png)
+![flexbox_froggy.png](./task_responsive_web_design/flexbox_froggy.png)
 </details>
 
