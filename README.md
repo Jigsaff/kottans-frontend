@@ -5,7 +5,7 @@
 ## General
 - [X] Git Basics
 - [X] Linux CLI and Networking
-- [ ] VCS (hello gitty), GitHub and Collaboration
+- [X] Git for Team Collaboration
 ## Front-End Basics
 - [ ] Intro to HTML & CSS
 - [ ] Responsive Web Design
@@ -42,4 +42,17 @@
 ![linux survival quiz2](./task_linux_cli/linuxsurvival2.png)
 ![linux survival quiz3](./task_linux_cli/linuxsurvival3.png)
 ![linux survival quiz4](./task_linux_cli/linuxsurvival4.png)
+</details>
+
+## Git for Team Collaboration
+
+#### What's New
+- Working with remote git (github).
+- How cool is learngitbranching! Awesome education tool.
+<details>
+    <summary>Screenshots</summary>
+
+![git_collab_udacity](./task_git_collaboration/git_collab_udacity.png)
+![git_collab_lgb1](./task_git_collaboration/git_collab_lgb1.png)
+![git_collab_lgb2](./task_git_collaboration/git_collab_lgb2.png)
 </details>
