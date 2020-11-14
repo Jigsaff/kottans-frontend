@@ -7,8 +7,8 @@
 - [X] Linux CLI and Networking
 - [X] Git for Team Collaboration
 ## Front-End Basics
-- [ ] Intro to HTML & CSS
-- [ ] Responsive Web Design
+- [X] Intro to HTML & CSS
+- [X] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
@@ -56,3 +56,28 @@
 ![git_collab_lgb1](./task_git_collaboration/git_collab_lgb1.png)
 ![git_collab_lgb2](./task_git_collaboration/git_collab_lgb2.png)
 </details>
+
+## Intro to HTML & CSS
+
+#### What's New
+- Repeated and consolidated knowledge about basic HTML and CSS.
+<details>
+    <summary>Screenshots</summary>
+
+![html_css_udacity](./task_html_css_intro/html_css_udacity.png)
+![learn_css_codecademy](./task_html_css_intro/learn_css_codecademy.png)
+![learn_html_codecademy](./task_html_css_intro/learn_html_codecademy.png)
+</details>
+
+## Responsive Web Design
+
+#### What's New
+- Viewports and how to use them.
+- Flexbox froggy is so cute game!
+<details>
+    <summary>Screenshots</summary>
+
+![udacity_responsive_course](./task_responsive_web_design/udacity_responsive_course.png)
+![flexbox_froggy.png](./task_responsive_web_design/flexbox_froggy.png.png)
+</details>
+
