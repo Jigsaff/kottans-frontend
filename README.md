@@ -9,12 +9,12 @@
 ## Front-End Basics
 - [X] Intro to HTML & CSS
 - [X] Responsive Web Design
-- [ ] HTML & CSS Practice
-- [ ] JavaScript Basics
-- [ ] Document Object Model - practice
+- [X] HTML & CSS Practice
+- [X] JavaScript Basics
+- [X] Document Object Model - practice
 ## Advanced Topics
-- [ ] Building a Tiny JS World (pre-OOP) - practice
-- [ ] Object oriented JS - practice
+- [X] Building a Tiny JS World (pre-OOP) - practice
+- [X] Object oriented JS - practice
 - [ ] OOP exercise - practice
 - [ ] Offline Web Applications
 - [ ] Memory pair game — real project!
@@ -81,3 +81,50 @@
 ![flexbox_froggy.png](./task_responsive_web_design/flexbox_froggy.png)
 </details>
 
+## HTML & CSS Practice
+
+#### What's New
+- That was excellent experience!
+[Code](https://github.com/Jigsaff/html-css-popup)
+[Demo](https://jigsaff.github.io/html-css-popup/)
+
+## JavaScript Basics
+
+#### What's New
+- freeCodeCamp - the best place to study JS, enjoyed it a lot!
+<details>
+    <summary>Screenshots</summary>
+
+![udacity_js.png](https://github.com/Jigsaff/kottans-frontend/blob/master/task_js_basics/udacity_js.png)
+![freecodecamp.png](https://github.com/Jigsaff/kottans-frontend/blob/master/task_js_basics/freecodecamp.png)
+</details>
+
+## Document Object Model - practice
+
+#### What's New
+- That was excellent experience!
+[Code](https://github.com/Jigsaff/dom-api-task)
+[Demo](https://jigsaff.github.io/dom-api-task/)
+<details>
+    <summary>Screenshots</summary>
+
+![udacity_dom.png](https://github.com/Jigsaff/kottans-frontend/blob/master/task_js_dom/udacity_dom.png)
+</details>
+
+## Building a Tiny JS World (pre-OOP) - practice
+
+#### What's New
+- That was excellent experience!
+[Code](https://github.com/Jigsaff/a-tiny-JS-world)
+[Demo](https://jigsaff.github.io/a-tiny-JS-world/)
+
+## Object oriented JS - practice
+
+#### What's New
+- Codewars - the place where code borns! Like it a lot!
+<details>
+    <summary>Screenshots</summary>
+
+![oop_udacity.png](https://github.com/Jigsaff/kottans-frontend/blob/master/task_js_oop/oop_udacity.png)
+![codewars.png](https://github.com/Jigsaff/kottans-frontend/blob/master/task_js_oop/codewars.png)
+</details>
